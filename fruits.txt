@@ -1,3 +1,6 @@
 菠萝
 橘子
 荔枝
+
+git -reset --hard
+git -revert 
