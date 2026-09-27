@@ -2,5 +2,7 @@
 橘子
 荔枝
 
-git -reset --hard
+git -reset --hard 
 git -revert 
+
+push -u origin master
